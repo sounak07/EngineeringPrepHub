@@ -1,9 +1,13 @@
 # System Design Hub
 This repo contains all my system design resources
 
-* [Case Studies]
-* [White Papers]
-* [Resource Hub]
+### Table of Contents
+
+*  [Case Studies](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#case-studies)
+*  [White Papers](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#white-paper)
+*  [Resource Hub Free](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-free)
+*  [Resource Hub Paid](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-paid)
+*  
 
 
 ##### Case Studies
