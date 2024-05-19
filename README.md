@@ -10,7 +10,7 @@ This repo contains all my system design resources
 * [White Papers](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#white-paper)
 * 
 
-##### Resource Hub Free
+### Resource Hub Free
 
 -  [Awesome Software Engineering Interview (Very Good)](https://github.com/imkgarg/Awesome-Software-Engineering-Interview) 
 -  [System Design Primer](https://github.com/donnemartin/system-design-primer#study-guide) 
@@ -23,12 +23,12 @@ This repo contains all my system design resources
 -  [Tech Blog Collection](https://github.com/kilimchoi/engineering-blogs)
 -  
 
-##### Resource Hub Paid
+### Resource Hub Paid
 
 - [System Design Playbook (Grokking)](https://www.designgurus.io/path/system-design-interview-playbook)
 
 
-##### Low Level Design 
+### Low Level Design 
 
 -  [LLD Primer](https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md)
 -  [LLD Problem (Youtube - The Tech Granth)](https://www.youtube.com/watch?v=zRz1GPSH50I&list=PLJN9ydlFnJsiEgyjO3D3yBhtiENymhF8G)
@@ -37,11 +37,11 @@ This repo contains all my system design resources
 -  [Design Patterns - Code Examples (JS)](https://github.com/gztchan/design-patterns-in-typescript/tree/master)
 -  
 
-##### Case Studies
+### Case Studies
 
 -  [Design Case Study (Youtube - The Stupid CS)](https://www.youtube.com/playlist?list=PLHNJ91XSF3wzT6BaLVi4WbnuHcfZSXMek)
 -  [Design Case Study (Youtube - CodeKarle)](https://www.youtube.com/watch?v=3loACSxowRU&list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
 -  [Design Case Study (Youtube - System Geeks)](https://www.youtube.com/watch?v=qB4NEX2Ez1U&list=PLRj3ABoGhqMkdxDaTXFYTFxqyOlLrzMzO)
 -  
 
-##### White Paper
+### White Paper
