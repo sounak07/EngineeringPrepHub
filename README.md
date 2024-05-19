@@ -10,7 +10,7 @@ This repo contains all my system design resources
 * [White Papers](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#white-paper)
 * 
 
-#### Resource Hub (Free)
+#### Resource Hub System Design (Free)
 
 -  [Awesome Software Engineering Interview (Very Good)](https://github.com/imkgarg/Awesome-Software-Engineering-Interview) 
 -  [System Design Primer](https://github.com/donnemartin/system-design-primer#study-guide) 
@@ -23,7 +23,7 @@ This repo contains all my system design resources
 -  [Tech Blog Collection](https://github.com/kilimchoi/engineering-blogs)
 -  
 
-#### Resource Hub (Paid)
+#### Resource Hub System Design (Paid)
 
 - [System Design Playbook (Grokking)](https://www.designgurus.io/path/system-design-interview-playbook)
 
