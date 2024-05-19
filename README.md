@@ -3,25 +3,16 @@ This repo contains all my system design resources
 
 ### Table of Contents
 
-*  [Case Studies](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#case-studies)
-*  [White Papers](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#white-paper)
-*  [Resource Hub Free](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-free)
-*  [Resource Hub Paid](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-paid)
-*  
 
-
-##### Case Studies
-
--  [Design Case Study (Youtube - The Stupid CS)](https://www.youtube.com/playlist?list=PLHNJ91XSF3wzT6BaLVi4WbnuHcfZSXMek)
--  [Design Case Study (Youtube - CodeKarle)](https://www.youtube.com/watch?v=3loACSxowRU&list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
--  [Design Case Study (Youtube - System Geeks)](https://www.youtube.com/watch?v=qB4NEX2Ez1U&list=PLRj3ABoGhqMkdxDaTXFYTFxqyOlLrzMzO)
--  
-
-##### White Paper
-
+* [Resource Hub Free](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-free)
+* [Resource Hub Paid](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-paid)
+* [Case Studies](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#case-studies)
+* [White Papers](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#white-paper)
+* 
 
 ##### Resource Hub Free
 
+-  [Awesome Software Engineering Interview (Very Good)](https://github.com/imkgarg/Awesome-Software-Engineering-Interview) 
 -  [System Design Primer](https://github.com/donnemartin/system-design-primer#study-guide) 
 -  [Resource for System Design (Leetcode)](https://leetcode.com/discuss/interview-question/system-design/457451/Resources-for-System-Design)
 -  [Neo Kim all Newletters](https://github.com/systemdesign42/system-design?tab=readme-ov-file#c-technologies)
@@ -45,3 +36,12 @@ This repo contains all my system design resources
 -  [LLD Problems UMLs](https://github.com/savitansh/Object-Oriented-Design)
 -  [Design Patterns - Code Examples (JS)](https://github.com/gztchan/design-patterns-in-typescript/tree/master)
 -  
+
+##### Case Studies
+
+-  [Design Case Study (Youtube - The Stupid CS)](https://www.youtube.com/playlist?list=PLHNJ91XSF3wzT6BaLVi4WbnuHcfZSXMek)
+-  [Design Case Study (Youtube - CodeKarle)](https://www.youtube.com/watch?v=3loACSxowRU&list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
+-  [Design Case Study (Youtube - System Geeks)](https://www.youtube.com/watch?v=qB4NEX2Ez1U&list=PLRj3ABoGhqMkdxDaTXFYTFxqyOlLrzMzO)
+-  
+
+##### White Paper
