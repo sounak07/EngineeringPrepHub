@@ -9,9 +9,9 @@ This repo contains all my system design resources
 *  [Resource Hub Paid](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-paid)
 *  [Case Studies](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#case-studies)
 *  [White Papers](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#white-paper)
-*  [Databases]()
-*  [Bash & Shell]()
-*  [Reactified]()
+*  [Databases](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#databases)
+*  [Bash & Shell](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#bash-and-shell)
+*  [Reactified](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#bash-and-shell)
 * 
 
 ##### Resource Hub System Design (Free)
