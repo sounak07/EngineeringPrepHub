@@ -59,7 +59,7 @@ This repo contains all my system design resources
 -  [Design Patterns - Code Examples (JS)](https://github.com/gztchan/design-patterns-in-typescript/tree/master)
 -  [LLD Resource Mine](https://github.com/sbvkrishna/low-level-design?tab=readme-ov-file)
 -  [Design Patterns OOP (Best)](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
--  
+-  [LLDCoding](https://lldcoding.com/)
 
 ##### HLD Case Studies
 
