@@ -83,7 +83,7 @@ This repo contains all my system design resources
 -  [PostgresQL Snowflake blogs](https://www.snowdba.com/postgresql-blogs/)
 -  
 
-#### Bash and shell 
+#### Bash and shell
 
 -  [Linux Commands](https://docs.google.com/document/d/1BCJ3iRYAif4MGxEn9j5N6dyu8-0YGA5xgHq-ldnV3po/edit#heading=h.mn2atvyoqdiv)
 -  [Bash Commands](https://github.com/onceupon/Bash-Oneliner)
