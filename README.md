@@ -4,10 +4,14 @@ This repo contains all my system design resources
 ### Table of Contents
 
 
-* [Resource Hub Free](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-free)
-* [Resource Hub Paid](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-paid)
-* [Case Studies](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#case-studies)
-* [White Papers](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#white-paper)
+
+*  [Resource Hub Free](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-free)
+*  [Resource Hub Paid](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-paid)
+*  [Case Studies](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#case-studies)
+*  [White Papers](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#white-paper)
+*  [Databases]()
+*  [Bash & Shell]()
+*  [Reactified]()
 * 
 
 ##### Resource Hub System Design (Free)
@@ -29,6 +33,17 @@ This repo contains all my system design resources
 -  [Github Gist Advanced System Design](https://gist.github.com/anilpai/0da860c8295668571c4fa9fc07638e1c)  
 -  [Microservice Patterns Code examples (Book)](https://github.com/microservices-patterns/ftgo-application)
 -  [High Performance Programming (Youtube)](https://www.youtube.com/@HighPerformanceProgramming/playlists)
+-  [Operating Systems(Book)](https://www.os-book.com/OS9/slide-dir/index.html)
+-  [Julia Evans](https://jvns.ca/)
+-  [Distributed Systems](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+-  [Jordan has no life](https://www.youtube.com/@jordanhasnolife5163/playlists)
+-  [Top System Design Questions](https://dev.to/somadevtoo/top-50-system-design-interview-questions-for-2024-5dbk)
+-  [The Geek Narrator (Podcasts)](https://www.youtube.com/@TheGeekNarrator/videos)
+-  [Tech Dummies System Design (Youtube)](https://www.youtube.com/@TechDummiesNarendraL/playlists)
+-  [System Design Fight Club](https://www.youtube.com/@SDFC/playlists)
+-  [Microservices Architecture](https://www.youtube.com/watch?v=-XGTjzz7nEs&list=PLkQkbY7JNJuDqCFncFdTzGm6cRYCF-kZO)
+-  [Tech Primers (Youtube)](https://www.youtube.com/@TechPrimers/playlists)
+-  [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 -  
 
 ##### Resource Hub System Design (Paid)
@@ -44,6 +59,7 @@ This repo contains all my system design resources
 -  [LLD Problems UMLs](https://github.com/savitansh/Object-Oriented-Design)
 -  [Design Patterns - Code Examples (JS)](https://github.com/gztchan/design-patterns-in-typescript/tree/master)
 -  [LLD Resource Mine](https://github.com/sbvkrishna/low-level-design?tab=readme-ov-file)
+-  [Design Patterns OOP (Best)](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 -  
 
 ##### HLD Case Studies
@@ -53,6 +69,7 @@ This repo contains all my system design resources
 -  [Design Case Study (Youtube - CodeKarle)](https://www.youtube.com/watch?v=3loACSxowRU&list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
 -  [Design Case Study (Youtube - System Geeks)](https://www.youtube.com/watch?v=qB4NEX2Ez1U&list=PLRj3ABoGhqMkdxDaTXFYTFxqyOlLrzMzO)
 -  [Design Case Study Practice](https://leetdesign.com)
+-  [Design Case Studies Exponent](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
 -  
 
 ##### White Paper
@@ -63,4 +80,18 @@ This repo contains all my system design resources
 #### Databases
 
 -  [How database works (Write Your own database)](https://cstack.github.io/db_tutorial/)
+-  [PostgresQL Snowflake blogs](https://www.snowdba.com/postgresql-blogs/)
+-  
+
+#### Bash and shell 
+
+-  [Linux Commands](https://docs.google.com/document/d/1BCJ3iRYAif4MGxEn9j5N6dyu8-0YGA5xgHq-ldnV3po/edit#heading=h.mn2atvyoqdiv)
+-  [Bash Commands](https://github.com/onceupon/Bash-Oneliner)
+-  [Effective Shell (Book)](https://effective-shell.com/)
+
+
+#### Reactified
+
+-  [React 18 with Redux Toolkit](https://www.youtube.com/watch?v=2-crBg6wpp0&t=1s)
+-  [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
 -  
