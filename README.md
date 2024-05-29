@@ -4,8 +4,8 @@ This repo contains all my system design resources
 ### Table of Contents
 
 
-*  [Resource Hub Free](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-free)
-*  [Resource Hub Paid](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-paid)
+*  [Resource Hub System Design (Free)](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-system-design-free)
+*  [Resource Hub System Design (Paid)](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-system-design-paid)
 *  [HLD Case Studies](https://github.com/sounak07/System-Design-Hub#hld-case-studies)
 *  [Architecture Talks](https://github.com/sounak07/System-Design-Hub#architecture-talks)
 *  [White Papers](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#white-paper)
