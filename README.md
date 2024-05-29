@@ -4,14 +4,14 @@ This repo contains all my system design resources
 ### Table of Contents
 
 
-
 *  [Resource Hub Free](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-free)
 *  [Resource Hub Paid](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-paid)
-*  [Case Studies](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#case-studies)
+*  [HLD Case Studies](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#case-studies)
+*  [Architecture Talks]()
 *  [White Papers](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#white-paper)
-*  [Databases](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#databases)
-*  [Bash & Shell](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#bash-and-shell)
-*  [Reactified](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#bash-and-shell)
+*  [Databases]()
+*  [Bash & Shell]()
+*  [Awesome FrontEnd]()
 
 ##### Resource Hub System Design (Free)
 
@@ -49,7 +49,6 @@ This repo contains all my system design resources
 
 - [System Design Playbook (Grokking)](https://www.designgurus.io/path/system-design-interview-playbook)
 
-
 ##### Low Level Design 
 
 -  [LLD Primer](https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md)
@@ -60,7 +59,8 @@ This repo contains all my system design resources
 -  [LLD Resource Mine](https://github.com/sbvkrishna/low-level-design?tab=readme-ov-file)
 -  [Design Patterns OOP (Best)](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 -  [LLDCoding](https://lldcoding.com/)
-
+-  [Grokking Low Level Design](https://github.com/tssovi/grokking-the-object-oriented-design-interview/tree/master)
+-  
 ##### HLD Case Studies
 
 -  [Design Step by Step](https://www.youtube.com/watch?v=bUHFg8CZFws)
@@ -69,6 +69,16 @@ This repo contains all my system design resources
 -  [Design Case Study (Youtube - System Geeks)](https://www.youtube.com/watch?v=qB4NEX2Ez1U&list=PLRj3ABoGhqMkdxDaTXFYTFxqyOlLrzMzO)
 -  [Design Case Study Practice](https://leetdesign.com)
 -  [Design Case Studies Exponent](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
+-  [Engineering blogs](https://draft.dev/learn/engineering-blogs)
+-  
+
+##### Architecture Talks
+
+-  [Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+-  [Scaling Instagram](https://www.youtube.com/watch?v=hnpzNAPiC0E&t=402s)
+-  [How Slack works](https://www.youtube.com/watch?v=WE9c9AZe-DY&t=56s)
+-  [How Netflix uses Java](https://www.youtube.com/watch?v=BaUrpq_7KMk)
+-  [Scaling Shopify for Flash Sales](https://www.youtube.com/watch?v=MV5Kdwzwcag)
 -  
 
 ##### White Paper
@@ -82,14 +92,14 @@ This repo contains all my system design resources
 -  [PostgresQL Snowflake blogs](https://www.snowdba.com/postgresql-blogs/)
 -  
 
-#### Bash and shell
+#### Bash and shell 
 
 -  [Linux Commands](https://docs.google.com/document/d/1BCJ3iRYAif4MGxEn9j5N6dyu8-0YGA5xgHq-ldnV3po/edit#heading=h.mn2atvyoqdiv)
 -  [Bash Commands](https://github.com/onceupon/Bash-Oneliner)
 -  [Effective Shell (Book)](https://effective-shell.com/)
 
 
-#### Reactified
+#### Awesome FrontEnd
 
 -  [React 18 with Redux Toolkit](https://www.youtube.com/watch?v=2-crBg6wpp0&t=1s)
 -  [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
