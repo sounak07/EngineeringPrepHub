@@ -63,7 +63,7 @@ This repo contains all my system design resources
 -  
 ##### HLD Case Studies
 
--  [Design Step by Step](https://www.youtube.com/watch?v=bUHFg8CZFws)
+-  [Design Case Study (Youtube - System Design Interview)](https://www.youtube.com/@SystemDesignInterview/videos)
 -  [Design Case Study (Youtube - The Stupid CS)](https://www.youtube.com/playlist?list=PLHNJ91XSF3wzT6BaLVi4WbnuHcfZSXMek)
 -  [Design Case Study (Youtube - CodeKarle)](https://www.youtube.com/watch?v=3loACSxowRU&list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
 -  [Design Case Study (Youtube - System Geeks)](https://www.youtube.com/watch?v=qB4NEX2Ez1U&list=PLRj3ABoGhqMkdxDaTXFYTFxqyOlLrzMzO)
