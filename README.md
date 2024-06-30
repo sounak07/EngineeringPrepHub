@@ -1,4 +1,4 @@
-# System Design Hub
+# Code to Hire Cafe
 
 ## Motivation
 
