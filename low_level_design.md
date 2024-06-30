@@ -2,6 +2,9 @@
 
 This file contains all the low level system design resources
 
+
+## Resources
+
 -  [LLD Shrayansh Jain](https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
 -  [LLD Primer](https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md)
 -  [LLD Problem (Youtube - The Tech Granth)](https://www.youtube.com/watch?v=zRz1GPSH50I&list=PLJN9ydlFnJsiEgyjO3D3yBhtiENymhF8G)
@@ -12,4 +15,10 @@ This file contains all the low level system design resources
 -  [Design Patterns OOP (Best)](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 -  [LLDCoding](https://lldcoding.com/)
 -  [Grokking Low Level Design](https://github.com/tssovi/grokking-the-object-oriented-design-interview/tree/master)
-- 
+
+
+
+## Concepts
+
+- [SOLIDs]()
+
