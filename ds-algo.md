@@ -1,3 +1,3 @@
 # Data structures and algo
 
-This repo contains all the DS Algo resources
+This file contains all the DS Algo resources

@@ -1,6 +1,6 @@
 # Low Level System Design
 
-This repo contains all the low level system design resources
+This file contains all the low level system design resources
 
 -  [LLD Shrayansh Jain](https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
 -  [LLD Primer](https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md)

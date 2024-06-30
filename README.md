@@ -6,9 +6,10 @@ This repository aims at providing collated content at a single place to prepare 
 
 ## Content
 
-- [Low Level Design (OOPS)]()
-- [System Design/High Level Design]()
-- [Awesome FrontEnd]()
+- [Low Level Design (OOPS)](https://github.com/sounak07/System-Design-Hub/blob/main/low_level_design.md)
+- [System Design/High Level Design](https://github.com/sounak07/System-Design-Hub/blob/main/high_level_design.md)
+- [Awesome FrontEnd](https://github.com/sounak07/System-Design-Hub/blob/main/front_end_resources.md)
+- [DS Algo](https://github.com/sounak07/System-Design-Hub/blob/main/ds-algo.md)
 
 ## Contributing
 

@@ -1,6 +1,6 @@
 # High Level System Design
 
-This repo contains all the high level system design resources
+This file contains all the high level system design resources
 
 ### Table of Contents
 
