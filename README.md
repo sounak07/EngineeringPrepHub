@@ -25,7 +25,7 @@ Feel free to submit pull requests to help with:
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
-- [Twitter](https://twitter.com/sounak_08).
+- [Twitter](https://twitter.com/sounak_08)
 - [Github](https://github.com/sounak07)
 - [Linkedin](https://www.linkedin.com/in/sounak08/)
 
