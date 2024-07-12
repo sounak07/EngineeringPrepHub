@@ -93,3 +93,9 @@ This file contains all the high level system design resources
 -  [Linux Commands](https://docs.google.com/document/d/1BCJ3iRYAif4MGxEn9j5N6dyu8-0YGA5xgHq-ldnV3po/edit#heading=h.mn2atvyoqdiv)
 -  [Bash Commands](https://github.com/onceupon/Bash-Oneliner)
 -  [Effective Shell (Book)](https://effective-shell.com/)
+
+#### Project Ideas
+
+- [Weekend Project Ideas](https://shivangsnewsletter.com/p/coding-projects)
+- [Coding Challenges (John Cricket)](https://codingchallenges.fyi/challenges/intro/)
+- [From Scratch Practice](https://app.codecrafters.io/catalog)
