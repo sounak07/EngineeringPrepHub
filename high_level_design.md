@@ -12,7 +12,7 @@ This file contains all the high level system design resources
 *  [White Papers](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#white-paper)
 *  [Databases](https://github.com/sounak07/System-Design-Hub#databases)
 *  [Bash & Shell](https://github.com/sounak07/System-Design-Hub#bash-and-shell)
-*  [Awesome FrontEnd](https://github.com/sounak07/System-Design-Hub#awesome-frontend)
+*  [Project Ideas](https://github.com/sounak07/System-Design-Hub#project-ideas)
 
 ##### Resource Hub System Design (Free)
 
@@ -86,13 +86,6 @@ This file contains all the high level system design resources
 -  [How database works (Write Your own database)](https://cstack.github.io/db_tutorial/)
 -  [PostgresQL Snowflake blogs](https://www.snowdba.com/postgresql-blogs/)
 -  [Database Concepts (Core Dump)](https://www.youtube.com/playlist?list=PLwrbo0b_XxA8BaxKRHuGHAQsBrmhYBsh1)
--  
-
-#### Bash and shell 
-
--  [Linux Commands](https://docs.google.com/document/d/1BCJ3iRYAif4MGxEn9j5N6dyu8-0YGA5xgHq-ldnV3po/edit#heading=h.mn2atvyoqdiv)
--  [Bash Commands](https://github.com/onceupon/Bash-Oneliner)
--  [Effective Shell (Book)](https://effective-shell.com/)
 
 #### Project Ideas
 

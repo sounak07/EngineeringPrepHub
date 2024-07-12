@@ -1,4 +1,4 @@
-# Great Pythin
+# Great Python
 
 This file contains all the Python Related resources
 
