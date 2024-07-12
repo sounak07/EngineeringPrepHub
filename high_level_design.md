@@ -5,14 +5,13 @@ This file contains all the high level system design resources
 ### Table of Contents
 
 
-*  [Resource Hub System Design (Free)](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-system-design-free)
-*  [Resource Hub System Design (Paid)](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#resource-hub-system-design-paid)
-*  [HLD Case Studies](https://github.com/sounak07/System-Design-Hub#hld-case-studies)
-*  [Architecture Talks](https://github.com/sounak07/System-Design-Hub#architecture-talks)
-*  [White Papers](https://github.com/sounak07/System-Design-Hub?tab=readme-ov-file#white-paper)
-*  [Databases](https://github.com/sounak07/System-Design-Hub#databases)
-*  [Bash & Shell](https://github.com/sounak07/System-Design-Hub#bash-and-shell)
-*  [Project Ideas](https://github.com/sounak07/System-Design-Hub#project-ideas)
+*  [Resource Hub System Design (Free)](https://github.com/sounak07/code-to-hire-cafe/blob/main/high_level_design.md#resource-hub-system-design-free)
+*  [Resource Hub System Design (Paid)](https://github.com/sounak07/code-to-hire-cafe/blob/main/high_level_design.md#resource-hub-system-design-paid)
+*  [HLD Case Studies](https://github.com/sounak07/code-to-hire-cafe/blob/main/high_level_design.md#hld-case-studies)
+*  [Architecture Talks](https://github.com/sounak07/code-to-hire-cafe/blob/main/high_level_design.md#architecture-talks)
+*  [White Papers](https://github.com/sounak07/code-to-hire-cafe/blob/main/high_level_design.md#white-paper)
+*  [Databases](https://github.com/sounak07/code-to-hire-cafe/blob/main/high_level_design.md#databases)
+*  [Project Ideas](https://github.com/sounak07/code-to-hire-cafe/blob/main/high_level_design.md#project-ideas)
 
 ##### Resource Hub System Design (Free)
 
@@ -79,6 +78,8 @@ This file contains all the high level system design resources
 ##### White Paper
 
 - [Great white Papers](https://github.com/sharanyaa/grok_sdi_educative/tree/master)
+- [Low Latency Systems](https://arxiv.org/pdf/2309.04259)
+- [Its all about Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
 
 #### Databases
