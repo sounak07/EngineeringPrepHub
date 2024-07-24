@@ -49,6 +49,7 @@ This file contains all the high level system design resources
 ##### Resource Hub System Design (Paid)
 
 - [System Design Playbook (Grokking)](https://www.designgurus.io/path/system-design-interview-playbook)
+- [From Scratch Practice](https://app.codecrafters.io/catalog)
 
  ##### HLD Case Studies
 
@@ -92,4 +93,3 @@ This file contains all the high level system design resources
 
 - [Weekend Project Ideas](https://shivangsnewsletter.com/p/coding-projects)
 - [Coding Challenges (John Cricket)](https://codingchallenges.fyi/challenges/intro/)
-- [From Scratch Practice](https://app.codecrafters.io/catalog)
