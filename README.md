@@ -1,4 +1,4 @@
-# Code to Hire Cafe
+# HireCafe
 
 ## Motivation
 
