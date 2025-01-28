@@ -36,30 +36,18 @@ class Storage:
         self.storage_strategy.request_data(file_name)
 
 
-class AWS(Storage):
-    def __init__(self) -> None:
-        super().__init__(AWSStrategy())
-
-class GCP(Storage):
-    def __init__(self) -> None:
-        super().__init__(GCPStrategy())
-
-
-class Redis(Storage):
-    def __init__(self) -> None:
-        super().__init__(RedisStrategy())
 
 
 
 
 def main():
-    aws: Storage = AWS()
+    aws: Storage = Storage(AWSStrategy())
     aws.get_data("secret_file.sec")
 
-    gcp: Storage = GCP()
+    gcp: Storage = Storage(GCPStrategy())
     gcp.get_data("secret_file.sec")
 
-    redis: Storage = Redis()
+    redis: Storage = Storage(RedisStrategy())
     redis.get_data("secret_file.sec")
 
 
