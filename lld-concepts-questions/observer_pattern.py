@@ -40,13 +40,13 @@ class Observable(ABC):
 class DeviceObserver(Observer):
     def __init__(self, id: int ,observable_type: Observable):
         self.id = id
-        self.iphone = observable_type
+        self.observable = observable_type
 
     def get_id(self):
         return self.id
 
     def update(self):
-        print('No of items', self.iphone.fetch_item_quantity())
+        print('No of items', self.observable.fetch_item_quantity())
         
 
 class ProductStock(Observable):
