@@ -47,11 +47,11 @@ class ThickPanPizza(BasePizza):
 margitta: BasePizza = Margaritta()
 print('MAR', margitta.get_cost())
 
-# extra cheese
+# extra cheese | Decorating
 margitta_extra_cheese: BasePizza = ExtraCheese(margitta)
 print('Extra Cheese MAR',margitta_extra_cheese.get_cost())
 
-# extra pan mar
+# extra pan mar | Decorating a decorator
 margitta_extra_pan: BasePizza = ThickPanPizza(margitta_extra_cheese)
 print('Extra Pan MAR', margitta_extra_pan.get_cost())
 
