@@ -30,13 +30,15 @@ class Factory(ABC):
     def get_car(self) -> Car:
         pass
 
+# grping of lux cars
 class LuxFactory(Factory):
     def get_car(self, car_name: str):
         if car_name == "BMW":
             return BWM()
         if car_name == "MERC":
             return Merc()
-        
+
+# grping of ord cars     
 class OrdFactory(Factory):
     def get_car(self, car_name: str):
         if car_name == "TATA":
