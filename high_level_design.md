@@ -44,7 +44,7 @@ This file contains all the high level system design resources
 -  [Microservices Architecture](https://www.youtube.com/watch?v=-XGTjzz7nEs&list=PLkQkbY7JNJuDqCFncFdTzGm6cRYCF-kZO)
 -  [Tech Primers (Youtube)](https://www.youtube.com/@TechPrimers/playlists)
 -  [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
--  
+-  [HLD Approach Technique](https://docs.google.com/document/d/17ECT4T4_2LV5nrNQeZ68WaeboE2EjI3Jb3oFZLKFQUs/mobilebasic)
 
 ##### Resource Hub System Design (Paid)
 
@@ -64,6 +64,7 @@ This file contains all the high level system design resources
 -  [Design Case Studies Exponent](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
 -  [Engineering blogs](https://draft.dev/learn/engineering-blogs)
 -  [Engineering Videos](https://www.youtube.com/playlist?list=PLwrbo0b_XxA-4DuI2ptUw809hymgUFkgo)
+-  [Hello Interview](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
 
 
 
@@ -76,11 +77,17 @@ This file contains all the high level system design resources
 -  [Scaling Shopify for Flash Sales](https://www.youtube.com/watch?v=MV5Kdwzwcag)
 -  
 
+##### Distributed Systems
+- [Distributed Systems Safety Research](https://jepsen.io/)
+- [Catalog of Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+
 ##### White Paper
 
 - [Great white Papers](https://github.com/sharanyaa/grok_sdi_educative/tree/master)
 - [Low Latency Systems](https://arxiv.org/pdf/2309.04259)
 - [Its all about Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+- [Every programmer should know about memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+- 
 
 
 #### Databases
@@ -88,6 +95,8 @@ This file contains all the high level system design resources
 -  [How database works (Write Your own database)](https://cstack.github.io/db_tutorial/)
 -  [PostgresQL Snowflake blogs](https://www.snowdba.com/postgresql-blogs/)
 -  [Database Concepts (Core Dump)](https://www.youtube.com/playlist?list=PLwrbo0b_XxA8BaxKRHuGHAQsBrmhYBsh1)
+- [Postgres Query Optimizer](https://www.youtube.com/watch?v=RNDTO33hVtY)
+- [Database Tuning by Zerodha](https://www.youtube.com/watch?v=XB2lF_Z9cbs)
 
 #### Project Ideas
 
