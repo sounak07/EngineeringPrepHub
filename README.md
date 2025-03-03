@@ -6,12 +6,12 @@ This repository aims at providing collated content at a single place to prepare 
 
 ## Content
 
-- [Low Level Design (OOPS)](https://github.com/sounak07/System-Design-Hub/blob/main/low_level_design.md)
-- [System Design/High Level Design](https://github.com/sounak07/System-Design-Hub/blob/main/high_level_design.md)
-- [Awesome FrontEnd](https://github.com/sounak07/System-Design-Hub/blob/main/front_end_resources.md)
-- [DS Algo](https://github.com/sounak07/System-Design-Hub/blob/main/ds-algo.md)
-- [Great Python](https://github.com/sounak07/System-Design-Hub/blob/main/great_python.md)
-- [Learn Bash and Shell](https://github.com/sounak07/System-Design-Hub/blob/main/learn_shell_bash.md)
+- [Low Level Design (OOPS)](https://github.com/sounak07/EngineeringPrepHub/blob/main/low_level_design.md)
+- [System Design/High Level Design](https://github.com/sounak07/EngineeringPrepHub/blob/main/high_level_design.md)
+- [Awesome FrontEnd](https://github.com/sounak07/EngineeringPrepHub/blob/main/front_end_resources.md)
+- [DS Algo](https://github.com/sounak07/EngineeringPrepHub/blob/main/ds-algo.md)
+- [Great Python](https://github.com/sounak07/EngineeringPrepHub/blob/main/great_python.md)
+- [Learn Bash and Shell](https://github.com/sounak07/EngineeringPrepHub/blob/main/learn_shell_bash.md)
 
 ## Contributing
 
@@ -28,7 +28,6 @@ Feel free to submit pull requests to help with:
 Feel free to contact me to discuss any issues, questions, or comments.
 
 - [Twitter](https://twitter.com/sounak_08)
-- [Github](https://github.com/sounak07)
 - [Linkedin](https://www.linkedin.com/in/sounak08/)
 
 ## License - MIT
