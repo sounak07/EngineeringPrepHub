@@ -4,6 +4,8 @@
 
 This repository aims at providing collated content at a single place to prepare for Software Engineering interviews.
 
+[Interview Prep Handbook](https://www.techinterviewhandbook.org/)
+
 ## Content
 
 - [Low Level Design (OOPS)](https://github.com/sounak07/EngineeringPrepHub/blob/main/low_level_design.md)
